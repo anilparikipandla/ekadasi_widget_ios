@@ -2,6 +2,18 @@
 
 A quiet, offline home-screen widget for Hyderabad. It shows an estimated Moon illustration and illumination, the current estimated tithi in the medium widget, and the next published Ekadashi observance. All dates use Hyderabad's IST, even when the phone is in another time zone.
 
+## Screenshots
+
+These are iPhone captures of the widget. Dates, tithi and Moon phase are examples from the time each capture was taken.
+
+| Everyday · light | Everyday · dark |
+|---|---|
+| ![Everyday widget in light mode](screenshots/everyday-light-mode.jpg) | ![Everyday widget in dark mode](screenshots/everyday-dark-mode.jpg) |
+
+| Ekadashi · light | Ekadashi · dark |
+|---|---|
+| ![Ekadashi widget in light mode](screenshots/ekadashi-light-mode.jpg) | ![Ekadashi widget in dark mode](screenshots/ekadashi-dark-mode.jpg) |
+
 ## Update your existing widget
 
 1. Open `Moon & Ekadashi.js` and copy **all** its contents to your iPhone.
